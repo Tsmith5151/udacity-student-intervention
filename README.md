@@ -10,7 +10,7 @@
     
 #### Software and Libraries
 
-  - Python 2.7
+  - Python 3.5 (Anaconda)
   - Sklearn 0.17
   - Numpy 1.10
   - iPython/Jupyter Notebook
